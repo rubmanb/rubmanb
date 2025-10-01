@@ -25,11 +25,13 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
 <h4> 💻 &nbsp;Programming languages and Frameworks</h4>
 <p align="center">
     <ul>
-        <span>🌐 &nbsp;Web</span>
+        <span>🌐 &nbsp;Web (Frontend/Backend)</span>
         <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" />
         </p>
     </ul>
     <ul>
