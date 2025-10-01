@@ -12,10 +12,6 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
 ### 📂 Featured Projects
 --- UPDATING
 
-[- 🔗 [FinTrack](https://github.com/tuusuario/fintrack) → Plataforma de análisis financiero para pymes  ]: #
-[- 🔗 [Odoo Custom Modules](https://github.com/tuusuario/odoo-modules) → Módulos personalizados para Odoo 12-17]: #
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  ]: #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)]: #
 
 
 <h2> 🚀 &nbsp;This is some work tools that I normally use</h2>
@@ -45,9 +41,10 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
         </p>
     </ul>
     <ul>
-        <span>🎮 &nbsp; Desktop and games</span>
+        <span>🎮 &nbsp; Desktop/backend and games</span>
         <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
         </p>
     </ul>
