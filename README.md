@@ -64,7 +64,7 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
   
 </p>     
 <h4> 🖌 &nbsp;Design</h4>
-<p align="left">
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
 </p> 
