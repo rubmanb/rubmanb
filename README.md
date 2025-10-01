@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-#### I'm Rubén and I'm software developer
+* 👂 My name is Rubén
+* 🔭 I’m currently working like software developer
+* 🌱 I’m currently learning ...
+* 🤝 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* ❤️ I love ...
+* ⚡ Fun fact: ...
 
 <h2> 🚀 &nbsp;Work Tools</h2>
 <h4> 🖥 &nbsp;IDES</h4>
@@ -42,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 </p>  
 
-<h4> 💾 &nbsp;Databases</h4>
+<h4> 🛢 &nbsp;Databases</h4>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
@@ -54,7 +62,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
 </p> 
-<h4> 🖌 &nbsp;Cloud</h4>
+<h4> ☁ &nbsp;Cloud</h4>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
