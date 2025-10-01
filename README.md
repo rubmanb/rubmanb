@@ -37,9 +37,10 @@
         </p>
     </ul>
     <ul>
-        <span>Desktop</span>
+        <span>Desktop and games</span>
         <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
         </p>
     </ul>
     
