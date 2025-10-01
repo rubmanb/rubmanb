@@ -26,7 +26,7 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
 <p align="center">
     <ul>
         <span>🌐 &nbsp;Web</span>
-        <p>
+        <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45"/>
@@ -34,7 +34,7 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
     </ul>
     <ul>
         <span>📱 &nbsp;Mobile</span>
-        <p>
+        <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
@@ -42,7 +42,7 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
     </ul>
     <ul>
         <span>🎮 &nbsp; Desktop/backend and games</span>
-        <p>
+        <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
