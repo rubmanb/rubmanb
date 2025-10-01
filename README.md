@@ -15,7 +15,6 @@ Apasionado por crear soluciones útiles con tecnologías modernas como Angular, 
 
 
 <h2> 🚀 &nbsp;This is some work tools that I normally use</h2>
-## 🚀 This is some work tools that I normally use
 
 | 🖥️ IDES | 💻 Web (Frontend/Backend) | 📱 Mobile | 🎮 Desktop/Backend | 💾 DevOps | 🛢 Databases | 🖌 Design | ☁ Cloud |
 |---------|---------------------------|-----------|-------------------|-----------|--------------|-----------|---------|
